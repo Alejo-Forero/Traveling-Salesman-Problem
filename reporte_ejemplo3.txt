@@ -1,0 +1,26 @@
+======================================================================
+REPORTE ESTADÍSTICO - OPTIMIZACIÓN POR COLONIA DE HORMIGAS
+======================================================================
+
+PARÁMETROS DEL ALGORITMO:
+----------------------------------------------------------------------
+  Número de hormigas: 30
+  Alpha (α): 1.0 - Influencia de feromona
+  Beta (β): 3.0 - Influencia heurística
+  Rho (ρ): 0.3 - Tasa de evaporación
+  Q: 100.0 - Constante de feromona
+  Iteraciones: 150
+
+RESULTADOS:
+----------------------------------------------------------------------
+  Mejor distancia encontrada: 450.17
+  Tiempo de ejecución: 4.54 segundos
+  Mejora total: 11.03%
+  Distancia inicial: 505.95
+  Distancia final: 450.17
+
+MEJOR TOUR ENCONTRADO:
+----------------------------------------------------------------------
+  22 -> 21 -> 11 -> 20 -> 28 -> 14 -> 13 -> 19 -> 12 -> 17 -> 2 -> 1 -> 7 -> 26 -> 15 -> 6 -> 24 -> 9 -> 0 -> 8 -> 16 -> 3 -> 5 -> 4 -> 10 -> 18 -> 23 -> 29 -> 25 -> 27 -> 22
+
+======================================================================
