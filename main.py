@@ -239,8 +239,7 @@ def main():
     """
     Función principal que ejecuta todos los ejemplos.
     """
-    print("\nEste programa demuestra la implementación completa del algoritmo ACO")
-    print("aplicado al problema del Vendedor Viajero (TSP).")
+    print("Problema del Vendedor Viajero (TSP).")
     print("\nSe ejecutarán 3 ejemplos diferentes:")
     print("  1. Implementación básica (15 ciudades)")
     print("  2. Análisis de parámetros (20 ciudades)")
