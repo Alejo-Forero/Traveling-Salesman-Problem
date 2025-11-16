@@ -7,8 +7,7 @@ class ColoniaHormigas:
     """
     Implementa el algoritmo ACO (Ant Colony Optimization) para resolver TSP.
 
-    PARÁMETROS CRÍTICOS Y SU SIGNIFICADO:
-    -------------------------------------
+    PARÁMETROS CRÍTICOS:
     - α (alpha): Control de exploración vs explotación
       * α alto → más peso a la feromona (explotación)
       * α bajo → más aleatorio (exploración)
